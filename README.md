@@ -81,7 +81,7 @@ $ git clone https://github.com/AndersonUfop/happy.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd happy
 
-# Vá para a pasta server
+# Vá para a pasta backend
 $ cd backend
 
 # Instale as dependências
